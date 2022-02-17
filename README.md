@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=MO_HAE!&fontAlign=70&desc=PROJECT&descAlign=20)
 
-## 프로젝트 설명
+## 
 
 `지금 뭐해?` 는 활동 공유 플랫폼입니다.
 
