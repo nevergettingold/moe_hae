@@ -1,0 +1,76 @@
+.mySwiper {
+  width: 100%;
+  height: 100%;
+
+  /* added */
+  padding: 0 30px 40px 30px;
+}
+
+.bannerSwiper {
+  width: 100%;
+  height: 100%;
+
+  /* added */
+}
+
+.swiper-slide {
+  /* text-align: center; */
+  font-size: 18px;
+  background: #fff;
+
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  /* -webkit-align-items: center; */
+  /* align-items: center; */
+
+  /* added */
+  flex-direction: column;
+}
+
+.swiper-slide img {
+  display: block;
+  height: 415px; /* changed */
+  object-fit: cover;
+}
+
+/* added */
+.swiper-button-next,
+.swiper-button-prev {
+  top: 45%;
+}
+
+/* added */
+.swiper-button-next::after {
+  transition: 0.3s;
+  font-size: 25px;
+  margin-left: 25px;
+  color: #888888;
+}
+.swiper-button-next:hover::after {
+  transition: 0.3s;
+  color: #000000;
+}
+
+/* added */
+.swiper-button-prev::after {
+  transition: 0.3s;
+  color: #888888;
+  font-size: 25px;
+  margin-right: 25px;
+}
+.swiper-button-prev:hover::after {
+  transition: 0.3s;
+  color: #000000;
+}
+.swiper-pagination-bullet.swiper-pagination-bullet-active {
+  background-color: #000000;
+}
