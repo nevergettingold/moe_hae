@@ -50,28 +50,35 @@
 1.  초기 화면 구성 및 결과화면단
 1) 메인화면
 <img width="407" alt="Screen Shot 2022-02-12 at 10 05 52 AM" src="https://user-images.githubusercontent.com/65276445/154467809-b3af2011-43a2-4298-84d2-ae3c843f75d7.png">
+
 ![메인](https://user-images.githubusercontent.com/65276445/154487030-bb1d2a81-4ffd-4c98-be44-43a723c938ec.jpg)
 
 2) 회원가입 페이지
 <img width="400" alt="Screen Shot 2022-02-12 at 9 58 58 AM" src="https://user-images.githubusercontent.com/65276445/154468316-899da4ff-343b-4edf-b855-dbc0dd3e3b0c.png">
+
 ![회원](https://user-images.githubusercontent.com/65276445/154487092-31c0dea1-8286-4524-8154-d7195447e295.jpg)
 
 
 3) 로그인 페이지
 <img width="402" alt="Screen Shot 2022-02-12 at 9 59 02 AM" src="https://user-images.githubusercontent.com/65276445/154468361-a8b593d6-d1a6-45ee-9a61-af2e5a03ef03.png">
+
 ![로그인](https://user-images.githubusercontent.com/65276445/154487103-612d96cc-e783-4cc7-8830-a26a80136f85.jpg)
 
 4) 글 작성/수정 페이지
 <img width="402" alt="Screen Shot 2022-02-12 at 9 59 07 AM" src="https://user-images.githubusercontent.com/65276445/154468398-b02edda1-53fb-42ad-b284-989089557d1d.png">
+
 ![작성](https://user-images.githubusercontent.com/65276445/154487121-b7927375-bb44-4157-bf2e-77feb1b89b57.jpg)
+
 ![수정](https://user-images.githubusercontent.com/65276445/154487130-ec0ed028-d7e3-4b0a-8258-85c34b73325c.jpg)
 
 5) 마이페이지
 <img width="402" alt="Screen Shot 2022-02-12 at 10 06 23 AM" src="https://user-images.githubusercontent.com/65276445/154468448-9eda57d1-04e4-4339-9341-10c95db6665f.png">
+
 ![마이](https://user-images.githubusercontent.com/65276445/154487142-a74c95be-90d8-4e70-94dc-48d8d88308be.jpg)
 
 6) 디테일 페이지
 <img width="396" alt="Screen Shot 2022-02-12 at 10 08 52 AM" src="https://user-images.githubusercontent.com/65276445/154468562-63fba632-7f46-4a3f-bbc3-2f3894459326.png">
+
 ![상세](https://user-images.githubusercontent.com/65276445/154487159-6a046f5e-1a9c-40e1-b7e9-522e25b0a87e.jpg)
 
 
